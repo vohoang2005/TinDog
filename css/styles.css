@@ -1,0 +1,18 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+#title {
+    background-color: #ff4c68;
+}
+
+.h1 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
